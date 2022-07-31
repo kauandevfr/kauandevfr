@@ -1,6 +1,6 @@
 <div align = 'center'>
 <h1>Olá 👏, sou o Kauan Rodrigues</h1>
-<p>Estudante em formação pela Cubos Academy 🏫</p>
+<p>Desenvolvedor em formação pela Cubos Academy 🏫</p>
 </div>
 <br>
 
