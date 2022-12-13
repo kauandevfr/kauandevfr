@@ -56,3 +56,5 @@ Meu portifólio ( Ainda em construção )
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanrdx145@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-rodrigues-b4b311195/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkauan17)
+
+ ![Snake animation](https://github.com/devkauan17/devkauan17/blob/output/github-contribution-grid-snake.svg)
