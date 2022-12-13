@@ -57,4 +57,4 @@ Meu portifólio ( Ainda em construção )
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-rodrigues-b4b311195/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkauan17)
 
- ![Snake animation](https://github.com/devkauan17/devkauan17/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/devkauan17/devkauan17/blob/output/github-contribution-grid-snake.svg) -->
