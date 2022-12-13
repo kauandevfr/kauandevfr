@@ -4,7 +4,7 @@ Olá! Tenho 18 anos e moro em São Paulo/SP desde sempre. Atualmente sou um dese
 
 Adoro assistir filmes/séries, super heróis (da Marvel principalmente) e jogar um game nas minhas horas de lazer.
 
-Busco aprender novas tecnologias e aprimorar as que eu já sei. Atualmente estou me aprofundando mais em ReactJS.
+Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já sei. Atualmente estou me aprofundando mais em ReactJS.
 
 ## Quer me conhecer mais? Entre em contato!
 <br/>
