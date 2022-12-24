@@ -4,7 +4,7 @@ Olá! Tenho 18 anos e moro em São Paulo/SP. Atualmente sou um desenvolvedor web
 
 Adoro assistir filmes/séries, super heróis (da Marvel principalmente) e jogar um game nas minhas horas de lazer.
 
-Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já sei. No momento estou me aprofundando mais em ReactJS.
+Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já sei. No momento eu concluí o curso de desenvolvimento de software da Cubos Academy, onde aprendi tecnologias como: HTML, CSS, Javascript, ReactJS, NodeJS e PostgreSQL e eu estou em busca de aprimorar os meus conhecimentos em ReactJS.
 
 ## Quer me conhecer mais? Entre em contato!
 <br/>
