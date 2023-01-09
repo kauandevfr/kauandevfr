@@ -1,6 +1,6 @@
 # Olá! eu sou o Kauan Rodrigues. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width='34px'>
 
-Olá! Tenho 18 anos e moro em São Paulo/SP. Atualmente sou um desenvolvedor web front-end capacitado pela <a href="https://cubos.academy" target="_blank">Cubos Academy</a>, e também já fui um designer sports por hobbie.
+Olá! Tenho 18 anos e moro em São Paulo/SP. Atualmente sou um desenvolvedor web front-end capacitado pela <a href="https://cubos.academy" target="_blank">Cubos Academy</a>, e um designer autodidata.
 
 Adoro assistir filmes/séries, super heróis (da Marvel principalmente) e jogar um game nas minhas horas de lazer.
 
