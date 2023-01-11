@@ -11,7 +11,7 @@ Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já se
 
 Meu portifólio ( Ainda em construção ) 
 
-[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://kauandesenvolvedor.netlify.app/&color=orange)](https://kauandesenvolvedor.netlify.app/) 
+[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portifolio-devkauan17.netlify.app/&color=orange)](https://portifolio-devkauan17.netlify.app/) 
 
 <br/>
 
