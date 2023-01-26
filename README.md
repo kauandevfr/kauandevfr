@@ -16,7 +16,7 @@ Meu portifólio ( Ainda em construção )
 <br/>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=devkauan17&theme=swift' alt='HTML5' >
+<img src='https://github-readme-stats.vercel.app/api?username=kauandevfr&theme=swift' alt='HTML5' >
 
 </div>
 
