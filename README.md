@@ -9,9 +9,9 @@ Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já se
 ## Quer me conhecer mais? Entre em contato!
 <br/>
 
-Meu portifólio ( Ainda em construção ) 
+Meu portifólio
 
-[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portifolio-devkauan17.netlify.app/&color=orange)](https://portifolio-devkauan17.netlify.app/) 
+[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portifolio-kauandevfr.netlify.app/&color=orange)](https://portifolio-kauandevfr.netlify.app/) 
 
 <br/>
 
