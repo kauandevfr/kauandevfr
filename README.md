@@ -17,7 +17,7 @@ Meu portifólio
 <br/>
 
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=kauandevfr&theme=dracula' alt='HTML5' >
+<img src='https://github-readme-stats.vercel.app/api?username=kauandevfr&theme=dark' alt='HTML5' >
 
 </div>
 
