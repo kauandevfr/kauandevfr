@@ -1,10 +1,11 @@
 # Olá! eu sou o Kauan Rodrigues. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width='34px'>
 
-Olá! Tenho 18 anos e moro em São Paulo/SP. Atualmente sou um desenvolvedor web front-end capacitado pela <a href="https://cubos.academy" target="_blank">Cubos Academy</a>, e um designer autodidata.
+Sou desenvolvedor front-end, 21 anos, residente em São Paulo/SP. Tenho formação em Desenvolvimento de Software pela <a href="https://cubos.academy" target="_blank">Cubos Academy</a> e experiência prática no desenvolvimento de interfaces modernas utilizando HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js e PostgreSQL. Também atuo com design, aplicando princípios de UI na criação de produtos digitais. Trabalho com ferramentas do ecossistema atual, como Vite, Docker, GitHub e soluções de Inteligência Artificial aplicadas ao desenvolvimento.
 
-Adoro assistir filmes/séries, super heróis (da Marvel principalmente) e jogar um game nas minhas horas de lazer.
+Atualmente aprofundo meus estudos em arquitetura front-end, performance web e padrões que tornam aplicações mais escaláveis, modulares e de fácil manutenção. Busco entender a fundo a estrutura dos projetos para entregar código mais robusto e alinhado às melhores práticas do mercado.
 
-Estou sempre em busca de aprender novas tecnologias e aprimorar as que eu já sei. No momento eu concluí o curso de desenvolvimento de software da Cubos Academy, onde aprendi tecnologias como: HTML, CSS, Javascript, ReactJS, NodeJS e PostgreSQL e eu estou em busca de aprimorar os meus conhecimentos em ReactJS.
+No meu tempo livre, dedico-me ao estudo contínuo de novas tecnologias e ao desenvolvimento de projetos pessoais que fortalecem meu domínio técnico e minha capacidade de resolver problemas reais.
+Minhas principais soft skills incluem resolução de problemas, comunicação clara, aprendizagem rápida e trabalho em equipe.
 
 ## Quer me conhecer mais? Entre em contato!
 <br/>
