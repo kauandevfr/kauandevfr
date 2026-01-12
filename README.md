@@ -1,18 +1,19 @@
 # Olá! eu sou o Kauan Rodrigues. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width='34px'>
 
-Sou desenvolvedor front-end, 21 anos, residente em São Paulo/SP. Tenho formação em Desenvolvimento de Software pela <a href="https://cubos.academy" target="_blank">Cubos Academy</a> e experiência prática no desenvolvimento de interfaces modernas utilizando HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js e PostgreSQL. Também atuo com design, aplicando princípios de UI na criação de produtos digitais. Trabalho com ferramentas do ecossistema atual, como Vite, Docker, GitHub e soluções de Inteligência Artificial aplicadas ao desenvolvimento, além de realizar deploy e gerenciamento de aplicações em VPS.
+Sou desenvolvedor front-end, 21 anos, residente em São Paulo/SP. Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhanguera e possuo formação complementar em Desenvolvimento de Software pela Cubos Academy, onde adquiri uma base sólida em programação. Tenho experiência prática no desenvolvimento de interfaces modernas utilizando HTML5, CSS3, JavaScript (ES6+), ReactJS, Node.js e PostgreSQL. Também atuo com design, aplicando princípios de UI na criação de produtos digitais.
 
-Atualmente aprofundo meus estudos em arquitetura front-end, performance web e padrões que tornam aplicações mais escaláveis, modulares e de fácil manutenção. Busco entender a fundo a estrutura dos projetos para entregar código mais robusto e alinhado às melhores práticas do mercado.
+Trabalho com ferramentas do ecossistema atual, como Vite, Docker, GitHub e soluções de Inteligência Artificial aplicadas ao desenvolvimento, além de realizar deploy e gerenciamento de aplicações em VPS.
 
-No meu tempo livre, dedico-me ao estudo contínuo de novas tecnologias e ao desenvolvimento de projetos pessoais que fortalecem meu domínio técnico e minha capacidade de resolver problemas reais.
-Minhas principais soft skills incluem resolução de problemas, comunicação clara, aprendizagem rápida e trabalho em equipe.
+Atualmente aprofundo meus estudos em arquitetura front-end, performance web e padrões que tornam aplicações mais escaláveis, modulares e de fácil manutenção. Busco entregar código robusto e alinhado às melhores práticas do mercado.
+
+No tempo livre, estudo novas tecnologias e desenvolvo projetos pessoais. Minhas principais soft skills são: resolução de problemas, comunicação clara, aprendizagem rápida e trabalho em equipe.
 
 ## Quer me conhecer mais? Entre em contato!
 <br/>
 
 Meu portifólio
 
-[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portifolio-kauandevfr.netlify.app/&color=orange)](https://portifolio-kauandevfr.netlify.app/) 
+[![Portifólio](https://img.shields.io/website?label=Portifólio&style=for-the-badge&url=https://portifolio-kauandevfr.netlify.app/&color=orange)](https://kauanrodrigues.com.br) 
 
 <br/>
 
